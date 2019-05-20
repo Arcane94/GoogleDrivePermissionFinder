@@ -1,5 +1,13 @@
 # GoogleDrivePermissionFinder
 
+**********************************************************************************************************************************
+
+This script will find the details (Name, Email and the type of the permission) of the persons who has access to files in your Google drive. A csv file is generated which contains said information for each and every file in your Google drive. 
+
+**********************************************************************************************************************************
+
+ # HOW TO USE :
+
 Go to the following link and click on 'Enable Drive API' to enable the Google drive API 
 
 https://developers.google.com/drive/api/v3/quickstart/python
